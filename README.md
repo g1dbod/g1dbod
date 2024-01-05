@@ -23,3 +23,10 @@ src="https://img.shields.io/github/followers/g1dbod?logo=github&style=for-the-ba
 
 <p align="left"> <a href="https://codesandbox.io/u/g1dbod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/g1dbod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+
+### My Active Projects
+
+* 🛒 <a href="https://g1dbod.github.io/shop-next-app/" target="_blank" rel="noreferrer">Shop</a>
+* 📑 <a href="https://g1dbod.github.io/dashboard-mobile/" target="_blank" rel="noreferrer">Dashboard</a>
+
+
