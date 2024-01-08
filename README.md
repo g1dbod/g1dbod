@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/g1dbod?logo=github&style=for-the-ba
 
 ### My Active Projects
 
-* 🛒 <a href="https://g1dbod.github.io/shop-next-app/" target="_blank" rel="noreferrer">Shop</a>
+* 💹 <a href="https://g1dbod.github.io/trello-lite-app/" target="_blank" rel="noreferrer">Trello</a>
 * 📑 <a href="https://g1dbod.github.io/dashboard-mobile/" target="_blank" rel="noreferrer">Dashboard</a>
 
 
